@@ -12,8 +12,8 @@ spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://127.0.0.1:3306/shieroj
-    username: root
-    password: 123456
+    username: 
+    password: 
   # Redis 配置
   redis:
     database: 3
@@ -24,8 +24,8 @@ spring:
   # todo rabbitmq 信息
   rabbitmq:
     host: 127.0.0.1
-    password: admin
-    username: 123456
+    password: 
+    username: 
     port: 5672
 server:
   address: 0.0.0.0
