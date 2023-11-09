@@ -1,0 +1,3 @@
+com\yu\feign\UserFeignClient.class
+com\yu\feign\QuestionFeignClient.class
+com\yu\feign\JudgeFeignClient.class

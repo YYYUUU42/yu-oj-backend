@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service-client" />
+        <module name="common" />
+        <module name="service-user" />
+        <module name="service-problem" />
+        <module name="model" />
+        <module name="service-judge" />
+        <module name="service-file" />
+        <module name="gateway" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
