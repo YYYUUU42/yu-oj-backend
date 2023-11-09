@@ -48,6 +48,9 @@ OJ（Online Judge）系统是一个在线算法评测系统，用户可以选择
 ![image](https://github.com/Yu6A/yu-oj-backend/assets/97829326/4a66f220-8d35-4ea0-b964-c3fcd94921c7)
 ![image](https://github.com/Yu6A/yu-oj-backend/assets/97829326/c5a04158-79db-4af5-aea1-4919a322c071)
 
+### 题目详情
+![image](https://github.com/Yu6A/yu-oj-backend/assets/97829326/ec56576c-1de7-44bb-9e05-8a2efdebb943)
+
 
 ### 用户登录与注册
 ![image](https://github.com/Yu6A/yu-oj-backend/assets/97829326/6e6d940f-48a6-432e-a788-8954a896c123)
