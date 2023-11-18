@@ -23,12 +23,9 @@ public class CodeMqInitMain {
         try {
             ConnectionFactory factory = new ConnectionFactory();
             // todo 配服务MQ信息
-            factory.setHost("localhost");
-            factory.setPassword("admin");
-            factory.setUsername("123456");
-//            factory.setHost("localhost");
-//            factory.setPassword("guest");
-//            factory.setUsername("guest");
+            factory.setHost("");
+            factory.setPassword("");
+            factory.setUsername("");
             Connection connection = factory.newConnection();
             Channel channel = connection.createChannel();
             String codeExchangeName = CODE_EXCHANGE_NAME;

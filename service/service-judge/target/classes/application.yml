@@ -1,9 +1,0 @@
-spring:
-  application:
-    name: service-judge
-  profiles:
-    active: dev
-  cloud:
-    nacos:
-      discovery:
-        server-addr: localhost:8848
