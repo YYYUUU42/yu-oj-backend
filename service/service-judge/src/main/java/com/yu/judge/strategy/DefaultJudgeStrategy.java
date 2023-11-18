@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * 默认判题策略
  *
- * @author Shier
+ * 
  * @createTime 2023/8/30 星期三 12:54
  */
 public class DefaultJudgeStrategy implements JudgeStrategy {

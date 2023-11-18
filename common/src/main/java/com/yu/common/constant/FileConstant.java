@@ -3,7 +3,7 @@ package com.yu.common.constant;
 /**
  * 文件常量
  *
-* @author Shier
+* 
  */
 public interface FileConstant {
 

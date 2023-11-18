@@ -14,7 +14,7 @@ import java.util.List;
 /**
  * 示例代码沙箱（仅为了跑通业务流程）
  *
- * @author Shier
+ * 
  */
 @Slf4j
 public class ExampleCodeSandbox implements CodeSandBox {

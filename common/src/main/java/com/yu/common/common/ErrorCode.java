@@ -3,7 +3,7 @@ package com.yu.common.common;
 /**
  * 自定义错误码
  *
- * @author Shier
+ * 
  */
 public enum ErrorCode {
 

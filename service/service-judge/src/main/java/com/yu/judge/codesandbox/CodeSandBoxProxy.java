@@ -7,7 +7,7 @@ import lombok.AllArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 
 /**
- * @author Shier
+ * 
  * @createTime 2023/8/30 星期三 10:22
  * 代理代码沙箱接口
  */

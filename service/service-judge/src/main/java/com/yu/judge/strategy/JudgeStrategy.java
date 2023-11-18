@@ -5,7 +5,7 @@ import com.yu.model.codesandbox.JudgeInfo;
 
 /**
  * 判题策略
- * @author Shier
+ * 
  */
 public interface JudgeStrategy {
 

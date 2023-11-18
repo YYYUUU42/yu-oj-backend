@@ -18,7 +18,7 @@ import java.nio.charset.StandardCharsets;
 /**
  * 网关全局拦截拦截
  *
- * @author Shier 2023/9/6 23:26
+ *  2023/9/6 23:26
  */
 @Component
 public class GlobalAuthFilter implements GlobalFilter, Ordered {

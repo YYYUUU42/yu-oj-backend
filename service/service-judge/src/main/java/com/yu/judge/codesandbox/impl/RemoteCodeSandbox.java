@@ -13,7 +13,7 @@ import com.yu.model.codesandbox.ExecuteCodeResponse;
 /**
  * 远程代码沙箱（实际调用接口的沙箱）
  *
- * @author Shier
+ * 
  */
 public class RemoteCodeSandbox implements CodeSandBox {
 

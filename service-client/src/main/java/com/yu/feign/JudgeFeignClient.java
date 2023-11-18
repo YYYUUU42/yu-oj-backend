@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 /**
  * 公共判题服务接口
  *
- * @author Shier
+ * 
  * @createTime 2023/8/30 星期三 12:04
  */
 @FeignClient(name = "service-judge", path = "/api/judge/inner")

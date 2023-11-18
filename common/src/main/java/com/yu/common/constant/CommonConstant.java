@@ -3,7 +3,7 @@ package com.yu.common.constant;
 /**
  * 通用常量
  *
-* @author Shier
+* 
  */
 public interface CommonConstant {
 

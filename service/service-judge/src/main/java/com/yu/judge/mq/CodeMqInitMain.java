@@ -14,7 +14,7 @@ import static com.yu.common.constant.MqConstant.*;
 /**
  * 用于创建测试程序用到的交换机和队列（只用在程序启动前执行一次）
  *
- * @author Shier
+ * 
  */
 @Slf4j
 public class CodeMqInitMain {

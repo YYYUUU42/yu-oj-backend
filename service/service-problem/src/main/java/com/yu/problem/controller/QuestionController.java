@@ -35,7 +35,7 @@ import java.util.List;
 /**
  * 题目管理
  *
- * @author Shier
+ * 
  */
 @RestController
 @RequestMapping("/")

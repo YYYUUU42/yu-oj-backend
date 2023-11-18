@@ -32,7 +32,7 @@ import java.util.List;
 /**
  * 用户接口
  *
- * @author Shier
+ * 
  */
 @RestController
 @RequestMapping("/")

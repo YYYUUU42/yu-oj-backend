@@ -11,7 +11,7 @@ import java.util.Arrays;
 /**
  * 网关跨域
  *
- * @author Shier 2023/9/6 23:15
+ *  2023/9/6 23:15
  */
 @Configuration
 public class CorsConfig {
@@ -23,7 +23,7 @@ public class CorsConfig {
         config.addAllowedHeader("*");
         config.setAllowCredentials(true);
         // 设置线上前端项目地址
-        config.setAllowedOriginPatterns(Arrays.asList("http://127.0.0.1:8080", "http://139.9.213.113:8080","http://139.9.213.113"));
+        config.setAllowedOriginPatterns(Arrays.asList("http://127.0.0.1:8080", "http://139.9.213.113:8080","http://139.9.213.113","http://localhost:8080"));
         UrlBasedCorsConfigurationSource source = new UrlBasedCorsConfigurationSource();
         source.registerCorsConfiguration("/**", config);
         return new CorsWebFilter(source);

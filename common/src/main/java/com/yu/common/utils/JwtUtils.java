@@ -11,7 +11,7 @@ import java.util.Map;
 /**
  * JWT 工具类
  *
- * @author Shier
+ * 
  */
 public class JwtUtils {
 

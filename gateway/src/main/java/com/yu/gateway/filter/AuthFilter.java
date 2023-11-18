@@ -21,7 +21,7 @@ import java.util.Map;
 /**
  * JWT统一鉴权 全局过滤器
  *
- * @author Shier
+ * 
  */
 // @Component
 public class AuthFilter implements GlobalFilter, Ordered {

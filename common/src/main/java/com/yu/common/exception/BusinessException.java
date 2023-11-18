@@ -6,7 +6,7 @@ import com.yu.common.common.ErrorCode;
 /**
  * 自定义异常类
  *
-* @author Shier
+* 
  */
 public class BusinessException extends RuntimeException {
 

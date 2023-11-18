@@ -8,7 +8,7 @@ import java.util.Date;
 /**
  * 用户视图（脱敏）
  *
-* @author Shier
+* 
  */
 @Data
 public class UserVO implements Serializable {

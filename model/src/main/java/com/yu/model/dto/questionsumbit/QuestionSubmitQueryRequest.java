@@ -10,7 +10,7 @@ import java.io.Serializable;
 /**
  * 查询题目提交
  *
- * @author Shier
+ * 
  */
 @Data
 @EqualsAndHashCode(callSuper = true)

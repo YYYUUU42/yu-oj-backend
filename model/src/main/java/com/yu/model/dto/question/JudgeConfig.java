@@ -5,7 +5,7 @@ import lombok.Data;
 /**
  * 判题配置
  *
- * @author Shier
+ * 
  * @createTime 2023/8/25 星期五 19:34
  */
 

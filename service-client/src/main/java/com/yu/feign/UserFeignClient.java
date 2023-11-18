@@ -20,7 +20,7 @@ import static com.yu.common.constant.UserConstant.USER_LOGIN_STATE;
 /**
  * 公共用户服务接口
  *
- * @author Shier
+ * 
  */
 @FeignClient(name = "service-user", path = "/api/user/inner")
 public interface UserFeignClient {

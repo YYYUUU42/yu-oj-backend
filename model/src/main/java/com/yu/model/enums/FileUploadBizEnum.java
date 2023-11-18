@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 /**
  * 文件上传业务类型枚举
  *
-* @author Shier
+* 
  */
 public enum FileUploadBizEnum {
 

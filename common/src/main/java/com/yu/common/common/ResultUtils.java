@@ -3,7 +3,7 @@ package com.yu.common.common;
 /**
  * 返回工具类
  *
-* @author Shier
+* 
  */
 public class ResultUtils {
 

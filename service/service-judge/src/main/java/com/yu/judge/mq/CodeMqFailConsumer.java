@@ -20,7 +20,7 @@ import static com.yu.common.constant.MqConstant.CODE_DLX_QUEUE;
 
 
 /**
- * @author Shier
+ * 
  */
 @Component
 @Slf4j

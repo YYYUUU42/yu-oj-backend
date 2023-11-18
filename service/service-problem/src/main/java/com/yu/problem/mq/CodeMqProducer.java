@@ -8,7 +8,7 @@ import javax.annotation.Resource;
 /**
  * Mq 生产者
  *
- * @author Shier 2023/9/7 11:30
+ *  2023/9/7 11:30
  */
 @Component
 public class CodeMqProducer {

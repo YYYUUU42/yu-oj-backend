@@ -8,7 +8,7 @@ import java.util.Date;
 /**
  * 用户更新请求
  *
- * @author Shier
+ * 
  */
 @Data
 public class UserUpdateRequest implements Serializable {

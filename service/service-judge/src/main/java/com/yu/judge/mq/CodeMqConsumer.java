@@ -24,7 +24,7 @@ import static com.yu.common.constant.MqConstant.CODE_QUEUE;
 /**
  * Mq 消费者
  *
- * @author Shier
+ * 
  * CreateTime 2023/6/24 15:53
  */
 @Component

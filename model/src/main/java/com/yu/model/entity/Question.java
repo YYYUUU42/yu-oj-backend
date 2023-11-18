@@ -10,7 +10,7 @@ import java.util.Date;
 /**
  * 题目
  *
- * @author Shier
+ * 
  * @TableName question
  */
 @TableName(value = "question")

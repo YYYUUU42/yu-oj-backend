@@ -1,7 +1,7 @@
 package com.yu.common.constant;
 
 /**
- * @author Shier
+ * 
  * CreateTime 2023/6/24 16:26
  * MQ 信息
  */

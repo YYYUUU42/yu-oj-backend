@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author Shier
+ * 
  * CreateTime 2023/5/27 22:50
  */
 @Data

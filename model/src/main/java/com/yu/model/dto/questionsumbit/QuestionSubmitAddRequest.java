@@ -7,7 +7,7 @@ import java.io.Serializable;
 /**
  * 添加题目
  *
-* @author Shier
+* 
  */
 @Data
 public class QuestionSubmitAddRequest implements Serializable {

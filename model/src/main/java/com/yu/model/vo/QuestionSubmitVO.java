@@ -12,7 +12,7 @@ import java.util.Date;
 /**
  * 题目
  *
- * @author Shier
+ * 
  * @TableName question
  */
 @Data

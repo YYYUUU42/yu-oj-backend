@@ -4,7 +4,7 @@ import lombok.Data;
 
 /**
  * 判题信息
- * @author Shier
+ * 
  */
 @Data
 public class JudgeInfo {

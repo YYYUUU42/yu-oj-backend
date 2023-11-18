@@ -3,7 +3,7 @@ package com.yu.common.constant;
 /**
  * 用户常量
  *
- * @author Shier
+ * 
  */
 public interface UserConstant {
 

@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * 编辑请求
  *
- * @author Shier
+ * 
  */
 @Data
 public class QuestionEditRequest implements Serializable {

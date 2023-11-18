@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 /**
  * 公共题目服务接口
- * @author Shier
+ * 
  * @createDate 2023-08-25 17:33:25
  */
 @FeignClient(name = "service-problem", path = "/api/question/inner")

@@ -6,7 +6,7 @@ import com.yu.common.common.ErrorCode;
 /**
  * 抛异常工具类
  *
-* @author Shier
+* 
  */
 public class ThrowUtils {
 
